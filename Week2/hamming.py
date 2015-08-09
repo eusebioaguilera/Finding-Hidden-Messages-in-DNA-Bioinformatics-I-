@@ -1,7 +1,7 @@
 __author__ = 'eusebio'
 
 #
-# This file implements the PatternCount method
+# This file implements the Hamming method
 #
 
 import os

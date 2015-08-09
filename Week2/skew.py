@@ -1,5 +1,5 @@
 #
-# This file implements the PatternCount method
+# This file implements the skew method
 #
 
 import os
